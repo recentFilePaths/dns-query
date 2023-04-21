@@ -1,2 +1,2 @@
-# .recentFilePaths
+# Hi
 
